@@ -1,7 +1,7 @@
 img{
-  width:100px;
+  width:200px;
   height:auto;
-  float: right;
+  float:right;
 }
 h1{
   font-size:20px;
@@ -16,10 +16,12 @@ h3{
   font-family:sans-serif;
   font-weight: bold;
   color: black;
+  text-align: center;
 }
 h5{
   font-weight: bold;
   font-size: 15px
+
 }
 .aboutme {
 padding: 20px;
@@ -32,4 +34,5 @@ padding: 20px;
 }
 .comments {
   font-style: italic;
+  color: red
 }
