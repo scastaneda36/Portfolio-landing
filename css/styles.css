@@ -1,6 +1,7 @@
 img{
   width:100px;
   height:auto;
+  float: right;
 }
 h1{
   font-size:20px;
@@ -21,10 +22,14 @@ h5{
   font-size: 15px
 }
 .aboutme {
-font-family: serif;
-color: dodgerblue;
+padding: 20px;
 }
 .boxmodel {
   border: 5px solid dodgerblue;
-  padding: 4px;
+  padding: 10px;
+  background-color: dodgerblue;
+  color: white
+}
+.comments {
+  font-style: italic;
 }
