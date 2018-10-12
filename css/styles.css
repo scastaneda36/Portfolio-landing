@@ -1,0 +1,21 @@
+img{
+  width:100px;
+  height:auto;
+}
+h1{
+  font-size:20px;
+  text-align: center;
+}
+h2{
+  font-family: monospace;
+  font-weight: bold;
+}
+h3{
+  font-family:sans-serif;
+  font-weight: bold;
+  color: black;
+}
+.aboutme {
+font-family: serif;
+color: dodgerblue;
+}
