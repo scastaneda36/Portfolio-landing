@@ -8,5 +8,16 @@
 
 _A portfolio which has links to for users to access Sandra's github repositories_
 
+## Setup/Installation Requirements
+
+_Clone Repository_
+_open in a http server_
+
+## Technologies Used
+
+_CSS_
+_HTML_
+_Bootstrap_
+
 ### License
 _Copyright (c) 2018 Sandra Castaneda_
