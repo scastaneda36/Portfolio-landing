@@ -7,15 +7,24 @@ h1{
   text-align: center;
 }
 h2{
-  font-family: monospace;
+  font-family: sans-serif;
   font-weight: bold;
+  text-align: center;
 }
 h3{
   font-family:sans-serif;
   font-weight: bold;
   color: black;
 }
+h5{
+  font-weight: bold;
+  font-size: 15px
+}
 .aboutme {
 font-family: serif;
 color: dodgerblue;
+}
+.boxmodel {
+  border: 5px solid dodgerblue;
+  padding: 4px;
 }
